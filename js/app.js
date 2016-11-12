@@ -8,6 +8,8 @@ angular.module('qln',['ui.router', 'ng-showdown'])
   $urlRouterProvider.otherwise('/');
   $locationProvider.html5Mode(true);
 
+  $showdownProvider.setOption('tables', 'true')
+
   $stateProvider
 
     .state('index', {

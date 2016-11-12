@@ -30,6 +30,13 @@ Quantlib and QuantLibAddin must be built first, then build QuantLibNode linking 
 
 * [Function List](http://quantlib.org/quantlibxl/allfunctions.html)
 
+## Version Matrix
+
+| QuantLib | QuantLibAddin | Node.js | QuantLibNode |
+| -------- | ------------- | ------- | ------------ |
+|    1.7.1 |         1.7.0 |   6.9.1 |        0.1.x |
+
+
 ## Example
 
 ```js
