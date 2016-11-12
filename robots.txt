@@ -1,0 +1,4 @@
+# Welcome to crawl this site!
+
+User-Agent: *
+Allow: *

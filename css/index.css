@@ -1,0 +1,8 @@
+body{
+  padding-top: 70px;
+}
+
+#preview {
+  overflow-y: auto;
+  overflow-x: auto;
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mcs",
+  "version": "0.1.0",
+  "dependencies": {
+    "angular-ui-ace": "*",
+    "showdown-youtube": "*",
+    "showdown-prettify": "*",
+    "showdown-twitter": "*"
+  }
+}
