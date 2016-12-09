@@ -9,6 +9,7 @@ angular.module('qln',['ui.router', 'ng-showdown'])
   $locationProvider.html5Mode(true);
 
   $showdownProvider.setOption('tables', 'true')
+  $showdownProvider.loadExtension('bootstrap');
 
   $stateProvider
 
