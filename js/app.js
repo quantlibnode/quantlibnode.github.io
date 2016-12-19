@@ -1,5 +1,5 @@
 //create a new module
-angular.module('qln',['ui.router', 'ng-showdown'])
+angular.module('qln',['ui.router', 'ng-showdown', 'angular-google-adsense'])
 
 //config routing
 .config(['$stateProvider','$urlRouterProvider','$locationProvider', '$showdownProvider',

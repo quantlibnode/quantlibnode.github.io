@@ -1,6 +1,6 @@
 ## QuantLib Async Bindings for Node.js [![npm version](https://badge.fury.io/js/quantlib.svg)](http://badge.fury.io/js/quantlib) [![Twitter Follow](https://img.shields.io/twitter/follow/quantlibnode.svg?style=social&maxAge=3600)](https://twitter.com/quantlibnode)
 
-This project brings [QuantLib](http://quantlib.org/) to the Node.js community, it's similar to [QuantLibXL](http://quantlib.org/quantlibxl/) project which is for Microsoft Excel.
+This [open source project](https://github.com/quantlibnode/quantlibnode) brings [QuantLib](http://quantlib.org/) to the Node.js community, it's similar to [QuantLibXL](http://quantlib.org/quantlibxl/) project which is for Microsoft Excel.
 
 Most functions in QuantLibXL can be used in the similar way in Node on the server side.
 
